@@ -1,3 +1,0 @@
-[submodule "lib/getoptions"]
-	path = src/getoptions
-	url = https://github.com/ko1nksm/getoptions

@@ -1,4 +1,1 @@
-# you should build and copy getoptions by yourself
-# cd the git directory and peform the following commands
-# `make build && ./bin/gengetoptions library > ../../lib/getoptions/getoptions`
-.lib/getoptions/*
+.env
